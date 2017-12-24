@@ -1,0 +1,14 @@
+{
+  "token": "Mzk0MjIyMjEyMTI4ODMzNTQ2.DSBLmQ.7h2NgCeIx9W_zaNqjMtjMrMxh7A",
+  "url": "https://github.com/slabo101/DiscordDevelopment/SaegusaBot",
+  "prefix": "+",
+  "ownerID": "270360352305184781",
+  "colors" : {
+  	"blue": 688593,
+  	"pink": 14958447,
+  	"light_pink": 16082038,
+  	"white": 14597041,
+  	"grey": 3620689
+  },
+  "join_notify": "@everyone"
+}

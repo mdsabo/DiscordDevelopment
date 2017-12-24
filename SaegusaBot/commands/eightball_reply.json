@@ -1,0 +1,59 @@
+{
+	"empty": [
+		"I need a question to provide an answer.",
+    	"I do not see your question.  Please try again.",
+    	"I cannot provide an answer at this time.",
+    	"If you want an answer, please ask a question.",
+    	"The answer to nothing is everything."
+	],
+
+	"default": [
+		"It is certain.",
+		"Perhaps it is possible.",
+		"There is a slim chance.",
+		"It looks doubtful.",
+		"Absolutely not my nibba."
+	],
+
+	"who": [
+		"It is certain.",
+		"Perhaps it is possible.",
+		"There is a slim chance.",
+		"It looks doubtful.",
+		"Absolutely not my nibba."
+	],
+
+	"what": [
+		"It is certain.",
+		"Perhaps it is possible.",
+		"There is a slim chance.",
+		"It looks doubtful.",
+		"Absolutely not my nibba."
+	],
+
+	"when": [
+		"It is certain.",
+		"Perhaps it is possible.",
+		"There is a slim chance.",
+		"It looks doubtful.",
+		"Absolutely not my nibba."
+	],
+
+	"where": [
+		"It is certain.",
+		"Perhaps it is possible.",
+		"There is a slim chance.",
+		"It looks doubtful.",
+		"Absolutely not my nibba."
+	],
+
+	"should": [
+		"Go right now.",
+		"Perhaps it is possible.",
+		"There is a slim chance.",
+		"It looks doubtful.",
+		"Absolutely not my nibba."
+	],
+
+	"mans": "Mans not hot."
+}
