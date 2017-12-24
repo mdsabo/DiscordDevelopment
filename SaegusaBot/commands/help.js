@@ -8,15 +8,13 @@ const command_text = "help - Get this message again.\n8ball\
  a command with the latest version.";
 
 const info_text = "Copywrite 2017.  Matthew Sabo.\nSee the docs\
-and source code on [GitHub](https://github.com/slabo101/DiscordDevelopment/SaegusaBot.)";
+and source code on [GitHub](https://github.com/slabo101/DiscordDevelopment/tree/master/SaegusaBot).";
 
 exports.run = (config, client, message, args) => {
 
 	let helpEmbed =  new Discord.RichEmbed()
-		.setColor(config.pink)
-		.setURL(config.url)
+		.setColor(config.colors.pink)
 		.setTitle("SaegusaBot Help and Information")
-		.setAuthor("Saegusa Mayumi", client.user.avatarURL)
 		.setDescription(description_text)
 		.addField("Commands", command_text)
 		.addField("Info", info_text)
