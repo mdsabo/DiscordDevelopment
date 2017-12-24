@@ -18,6 +18,7 @@ client.on("ready", () => {
 
 const commands = [
     "eightball",
+    "score",
     "reload",
     "source",
     "help"
