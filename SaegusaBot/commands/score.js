@@ -4,7 +4,7 @@ sql.open("./data/score.db");
 exports.run = (config, client, message, args) => {
 	sql.get(`SELECT * FROM scores WHERE userid = "${message.author.id}"`)
 	.then(row => {
-		if(!row)
+		if(!row)jj
 		{
 			sql.run("INSERT INTO scores (userid, points, level) VALUES (?, ?, ?)", [message.author.id, 1, 0]);
 			message.reply(` currently has 1 point.`);
