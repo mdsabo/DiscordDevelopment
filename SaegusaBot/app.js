@@ -14,8 +14,13 @@ client.on("ready", () => {
         let eventName = file.split(".")[0];
         client.on(eventName, (...args)=>eventFunction.run(client, ...args));
     })
-});*/
 
+/*Command Ideas
+Waifu rater
+Music player
+RSS feeds
+Will bot (get picture from naruto)
+*/
 const commands = [
     "eightball",
     "rpg",
